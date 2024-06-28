@@ -15,3 +15,4 @@ console.log("typeof(100 / 0) is ", e)
 console.log("typeof(1 + '3') is ", f)
 console.log("typeof(1 * 'a' is ", g)
 console.log("typeof null is ", h)
+ 
